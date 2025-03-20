@@ -1,1 +1,5 @@
-A basic example of a Gradle Settings Plugin set up
+An example of how to access libs version catalog from a settings plugin
+
+```bash
+ ./gradlew myTask
+```

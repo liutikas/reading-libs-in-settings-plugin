@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "smallest-settings-plugin"
+rootProject.name = "reading-libs-in-settings-plugin"
 include("lib")
 
